@@ -1,4 +1,4 @@
-package com.springboot.mybatis.springbootmybatisdemo;
+package com.springboot.mybatis.app;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
